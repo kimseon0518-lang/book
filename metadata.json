@@ -1,0 +1,6 @@
+{
+  "name": "도서관 좌석 예약 시스템",
+  "description": "시니어와 디지털 초보자도 쉽게 이용할 수 있는 큰 글씨 도서관 좌석 예약 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
